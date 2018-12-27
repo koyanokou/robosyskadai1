@@ -14,7 +14,7 @@ https://youtu.be/LiomWKTOCwo
 
 ## 使用方法
 ```
-$ git clone https://github.com/koyanokou/robsys1.git
+$ https://github.com/koyanokou/robosyskadai1.git
 $ cd robsys1
 $ make
 $ sudo insmod myled.ko
