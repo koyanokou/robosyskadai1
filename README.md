@@ -10,7 +10,7 @@ $ sudo ./karnel_build_and_install_for_pi2_pi3.bash
 $ sudo reboot
 ```
 ## 動画のURL
-
+https://youtu.be/LiomWKTOCwo
 
 ## 使用方法
 ```
